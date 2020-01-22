@@ -1,6 +1,11 @@
 {
   "suggest.noselect": false,
-
+  "suggest.detailMaxLength": 10,
+  "vetur.completion.useScaffoldSnippets": false,
+  "emmet.includeLanguages": {"vue-html": "html", "javascript": "javacriptreact"},
+  "snippets.extends": {
+    "vue": ["javascript", "vue-html", "html"]
+  },
   "languageserver": {
     "intelephense": {
       "command": "intelephense",
