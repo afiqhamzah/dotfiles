@@ -3,6 +3,7 @@
   "suggest.detailMaxLength": 10,
   "vetur.completion.useScaffoldSnippets": false,
   "emmet.includeLanguages": {"vue-html": "html", "javascript": "javacriptreact"},
+  "snippets.priority": 99,
   "snippets.extends": {
     "vue": ["javascript", "vue-html", "html"]
   },
