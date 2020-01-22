@@ -12,7 +12,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'yuttie/comfortable-motion.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'honza/vim-snippets'
 Plug 'Yggdroot/indentLine'
 Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/vim-peekaboo'
