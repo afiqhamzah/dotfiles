@@ -24,9 +24,9 @@ Plug 'Julian/vim-textobj-variable-segment'
 Plug 'tomtom/tcomment_vim'
 Plug 'tpope/vim-sensible'
 Plug 'junegunn/vim-easy-align'
-Plug 'wellle/targets.vim'
 Plug 'liuchengxu/vim-clap'
-Plug 'liuchengxu/vim-clap', { 'do': function('clap#helper#build_all') }
+Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary'}
+Plug 'wellle/targets.vim'
 Plug 'tomasiser/vim-code-dark'
 Plug 'machakann/vim-highlightedyank'
 Plug 'mhinz/vim-signify'
